@@ -146,6 +146,7 @@ var text = {
     {
       name: "GitHub",
       url: "http://github.com/alphasquared",
+	    accolade: "",
       description: "Look at all of my open source projects"
     }
 	],
