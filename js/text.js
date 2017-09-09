@@ -1,6 +1,6 @@
 var text = {
 	helpGreeting: function(){
-		var random = Math.floor((Math.random() * 11) + 1);
+		var random = Math.floor((Math.random() * 12) + 1);
 		console.log(random);
 		switch(random){
 			case 1:
