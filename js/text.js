@@ -176,7 +176,7 @@ var text = {
 			+ "\n\n"
 			+ item.accolade
 			+ "</a>\n"
-			+ "\t  "
+			+ "\t  ";
 		});
 
 		return output;
