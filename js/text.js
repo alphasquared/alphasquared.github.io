@@ -79,7 +79,9 @@ var text = {
 		return output;
 	},
 	
-	clear: location.reload(),
+	clear: function()	{
+		location.reload();
+	},
 	
 	positionsObj: [
 
