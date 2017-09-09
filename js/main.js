@@ -22,7 +22,7 @@ $(function () {
       case "contact":
         return text.contact;
 	    case "clear":
-		    return text.clear();
+		    return clear();
       default:
         return text.notRight;
     }
