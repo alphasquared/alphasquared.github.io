@@ -24,7 +24,7 @@ $(function () {
       case "contact":
         return text.contact;
 	    case "clear":
-		    return clear();
+		 clear();
       default:
         return text.notRight;
     }
