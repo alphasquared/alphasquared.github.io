@@ -182,7 +182,6 @@ var text = {
 			"I am 6'3''.",
 			"My birthday is on the same day that the Berlin Wall fell.",
 			"This website was concieved at PennAppsXVI.",
-			""
 			"I enjoy baking in my free time.",
       "Favorite Book: 'Surely You're Joking, Mr. Feynman!' by Richard Feynman", 
 		];
