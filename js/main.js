@@ -21,6 +21,8 @@ $(function () {
         return text.fun();
       case "contact":
         return text.contact;
+	    case "clear":
+		    return text.clear();
       default:
         return text.notRight;
     }
