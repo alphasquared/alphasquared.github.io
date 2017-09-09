@@ -1,6 +1,6 @@
 var text = {
 	helpGreeting: function(){
-		var random = Math.floor((Math.random() * 3) + 1);
+		var random = Math.floor((Math.random() * 11) + 1);
 		console.log(random);
 		switch(random){
 			case 1:
@@ -38,8 +38,8 @@ var text = {
 		+ "\tcontact: say hey\n"
 	},
 	notRight: "Oops, that's not a valid command... try '?'\n",
-    abhishek: "Student, researcher, software engineer, ~ tennis player, hopeful entrepreneur\n"
-         + "@TJHSST\n"
+    abhishek: "Student, researcher, software engineer, ~ tennis player\n\n"
+         + "@Thomas Jefferson High School for Science and Technology\n"
 		 + "Check out my <a href='https://www.github.com/alphasquared/'>GitHub</a>!\n\n"
 		 + "Add me on <a href='https://www.facebook.com/abhishekallamsetty/'>Facebook</a>!\n\n"
          + "Follow me on <a href='https://www.instagram.com/allamsettyabhishek/'>Instagram</a>!\n\n"
