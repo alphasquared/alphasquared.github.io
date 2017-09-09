@@ -173,7 +173,7 @@ var text = {
 			+ "</a>\n"
 			+ "\t  "
 			+ item.description
-			+ "\n\n";
+			+ "\n\n"
 			+ item.accolade
 			+ "</a>\n"
 			+ "\t  "
