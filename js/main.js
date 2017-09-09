@@ -11,6 +11,8 @@ $(function () {
         return text.help();
       case "abhishek":
         return text.abhishek;
+	    case "allamsetty":
+		    return text.allamsetty;
       case "work":
         return text.work();
       case "positions":
