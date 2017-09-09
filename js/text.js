@@ -137,28 +137,28 @@ var text = {
 	},
 	projObj: [
     {
-      name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects\n",
+      name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "",
 	    description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors.",
 	    accolade:""
     },
     {
-      name: "MoneyCat\n",
+      name: "MoneyCat",
       url: "https://devpost.com/software/moneycat",
 	    description: "A region-stratified database of sales and transaction statistics for businesses.\n",	
 	  accolade: "Category Prize Winner @ HackTJ"
     },
 	{
-      name: "Spot for Spotify\n",
+      name: "Spot for Spotify",
       url: "https://devpost.com/software/spot-for-spotify",
       description: "Lightweight web application that creates a custom Spotify playlist from sentence input.\n",
       accolade: "Best Beginner Hack @ HackTJ"
     },
     {
-      name: "GitHub\n",
+      name: "GitHub",
       url: "http://github.com/alphasquared",
-	    accolade: "",
-      description: "Look at all of my open source projects"
+      description: "Look at all of my open source projects",
+	    accolade: ""
     }
 	],
 	projects: function(){
@@ -172,11 +172,11 @@ var text = {
 			+ item.name
 			+ "</a>\n"
 			+ "\t  "
+			+ item.description
+			+ "\n\n";
 			+ item.accolade
 			+ "</a>\n"
 			+ "\t  "
-			+ item.description
-			+ "\n\n";
 		});
 
 		return output;
