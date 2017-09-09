@@ -44,8 +44,7 @@ var text = {
          + "@Thomas Jefferson High School for Science and Technology\n"
 		 + "Check out my <a href='https://www.github.com/alphasquared/'>GitHub</a>!\n\n"
 		 + "Add me on <a href='https://www.facebook.com/abhishekallamsetty/'>Facebook</a>!\n\n"
-         + "Follow me on <a href='https://www.instagram.com/allamsettyabhishek/'>Instagram</a>!\n\n"
-		 + "Connect with me on <a href='https://www.linkedin.com/in/abhishekallamsetty'>LinkedIn</a>!\n"
+		 + "Connect with me on <a href='https://www.linkedin.com/in/abhishekallamsetty'>LinkedIn</a>!\n\n"
          + "Check out my 'work' or 'projects' for more info.\n",
 
 	workObj: [
@@ -177,11 +176,15 @@ var text = {
 	},
 	fun: function(){
 		var facts = [
-			"I can understand Telugu",
-			"I can understand Russian",
+			"I can understand Telugu.",
+			"I can understand Russian.",
 			"I like to play tennis.",
+			"I am 6'3''.",
+			"My birthday is on the same day that the Berlin Wall fell.",
+			"This website was concieved at PennAppsXVI.",
+			""
 			"I enjoy baking in my free time.",
-      "Favorite Book: Surely You're Joking, Mr. Feynman! by Richard Feynman", 
+      "Favorite Book: 'Surely You're Joking, Mr. Feynman!' by Richard Feynman", 
 		];
 
 		var random = Math.floor((Math.random() * facts.length));
