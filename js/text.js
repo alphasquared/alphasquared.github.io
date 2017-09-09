@@ -40,7 +40,7 @@ var text = {
 		+ "\tcontact: say hey\n"
 	},
 	notRight: "Oops, that's not a valid command... try '?'\n",
-    abhishek: "\nStudent, researcher, software engineer, questionable tennis player.\n\n"
+    abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
          + "@TJHSST\n\n"
 		 + "Check out my <a href='https://www.github.com/alphasquared/'>GitHub</a>!\n"
 		 + "Add me on <a href='https://www.facebook.com/abhishekallamsetty/'>Facebook</a>!\n"
