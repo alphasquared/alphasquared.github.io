@@ -139,26 +139,22 @@ var text = {
     {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "",
-	    description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors.",
-	    accolade:""
+	    description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
     },
     {
       name: "MoneyCat",
       url: "https://devpost.com/software/moneycat",
-	    description: "A region-stratified database of sales and transaction statistics for businesses.\n",	
-	  accolade: "Category Prize Winner @ HackTJ"
+	    description: "A region-stratified database of sales and transaction statistics for businesses.\n Category Prize Winner @HackTJ"
     },
 	{
       name: "Spot for Spotify",
       url: "https://devpost.com/software/spot-for-spotify",
-      description: "Lightweight web application that creates a custom Spotify playlist from sentence input.\n",
-      accolade: "Best Beginner Hack @ HackTJ"
+      description: "Lightweight web application that creates a custom Spotify playlist from sentence input.\n Best Beginner Hack @HackTJ"
     },
     {
       name: "GitHub",
       url: "http://github.com/alphasquared",
-      description: "Look at all of my open source projects",
-	    accolade: ""
+      description: "Look at all of my open source projects"
     }
 	],
 	projects: function(){
@@ -173,8 +169,6 @@ var text = {
 			+ "</a>\n"
 			+ "\t  "
 			+ item.description
-			+ "\n\n";
-			+ item.accolade
 			+ "\n\n";
 		});
 
