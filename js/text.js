@@ -9,6 +9,22 @@ var text = {
 				return "Nice to meet you!"
 			case 3:
 				return "What it do?"
+			case 4:
+				return "Namaste!"
+			case 5: 
+				return "Здравствуйте!"
+			case 6:
+				return "你好"
+			case 7:
+				return "హలో"
+			case 8:
+				return "こんにちは!"
+			case 9:
+				return "नमस्ते!"
+			case 10:
+				return "Bonjour!"
+			case 11:
+				return "¡Hola!"
 		}
 	},
 	help: function() {
