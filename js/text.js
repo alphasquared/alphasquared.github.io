@@ -137,25 +137,25 @@ var text = {
 	},
 	projObj: [
     {
-      name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
+      name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects\n",
       url: "",
-	    accolade:"",
-      description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
+	    description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors.",
+	    accolade:""
     },
     {
-      name: "MoneyCat",
+      name: "MoneyCat\n",
       url: "https://devpost.com/software/moneycat",
-	  accolade: "Category Prize Winner @ HackTJ",
-      description: "A region-stratified database of sales and transaction statistics for businesses."	
+	    description: "A region-stratified database of sales and transaction statistics for businesses.\n",	
+	  accolade: "Category Prize Winner @ HackTJ"
     },
 	{
-      name: "Spot for Spotify",
+      name: "Spot for Spotify\n",
       url: "https://devpost.com/software/spot-for-spotify",
-	  accolade: "Best Beginner Hack @ HackTJ",
-      description: "Lightweight web application that creates a custom Spotify playlist from sentence input."	
+      description: "Lightweight web application that creates a custom Spotify playlist from sentence input.\n",
+      accolade: "Best Beginner Hack @ HackTJ"
     },
     {
-      name: "GitHub",
+      name: "GitHub\n",
       url: "http://github.com/alphasquared",
 	    accolade: "",
       description: "Look at all of my open source projects"
