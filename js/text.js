@@ -138,7 +138,7 @@ var text = {
       description: "A region-stratified database of sales and transaction statistics for businesses."	
     },
 	{
-      name: "MoneyCat",
+      name: "Spot for Spotify",
       url: "https://devpost.com/software/spot-for-spotify",
 	  accolade: "Best Beginner Hack @ HackTJ",
       description: "Lightweight web application that creates a custom Spotify playlist from sentence input."	
