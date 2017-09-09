@@ -14,9 +14,9 @@ var text = {
 			case 5: 
 				return "Здравствуйте!"
 			case 6:
-				return "你好"
+				return "你好!"
 			case 7:
-				return "హలో"
+				return "హలో!"
 			case 8:
 				return "こんにちは!"
 			case 9:
@@ -25,6 +25,8 @@ var text = {
 				return "Bonjour!"
 			case 11:
 				return "¡Hola!"
+			case 12:
+				return "How's it hangin'?"
 		}
 	},
 	help: function() {
