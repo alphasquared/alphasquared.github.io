@@ -128,18 +128,19 @@ var text = {
     {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "",
+	    accolade:"",
       description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
     },
     {
       name: "MoneyCat",
       url: "https://devpost.com/software/moneycat",
-	  //accolade: "Category Prize Winner @ HackTJ"
+	  accolade: "Category Prize Winner @ HackTJ",
       description: "A region-stratified database of sales and transaction statistics for businesses."	
     },
 	{
       name: "MoneyCat",
       url: "https://devpost.com/software/spot-for-spotify",
-	  //accolade: "Best Beginner Hack @ HackTJ"
+	  accolade: "Best Beginner Hack @ HackTJ",
       description: "Lightweight web application that creates a custom Spotify playlist from sentence input."	
     },
     {
@@ -159,9 +160,9 @@ var text = {
 			+ item.name
 			+ "</a>\n"
 			+ "\t  "
-			//+ item.accolade
-			//+ "</a>\n"
-			//+ "\t  "
+			+ item.accolade
+			+ "</a>\n"
+			+ "\t  "
 			+ item.description
 			+ "\n\n";
 		});
