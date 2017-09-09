@@ -175,8 +175,7 @@ var text = {
 			+ item.description
 			+ "\n\n";
 			+ item.accolade
-			+ "</a>\n"
-			+ "\t  "
+			+ "\n\n";
 		});
 
 		return output;
