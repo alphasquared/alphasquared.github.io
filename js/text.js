@@ -72,6 +72,11 @@ var text = {
 
 		return output;
 	},
+	
+	clear: function(){
+		location.reload();
+	},
+	
 	positionsObj: [
 
     {
