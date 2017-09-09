@@ -155,7 +155,7 @@ var text = {
     }
 	],
 	projects: function(){
-		var output = "Some stuff I've worked on (some are part of my work experience):\n\n";
+		var output = "Some stuff I've worked on:\n\n";
 
 		this.projObj.forEach(function(item){
 			output += "\t"
