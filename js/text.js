@@ -145,13 +145,13 @@ var text = {
       name: "MoneyCat",
       url: "https://devpost.com/software/moneycat",
 	    description: "A region-stratified database of sales and transaction statistics for businesses.\n",
-	    description: "Category Prize Winner @HackTJ"
+	    accolade: "Category Prize Winner @HackTJ"
     },
 	{
       name: "Spot for Spotify",
       url: "https://devpost.com/software/spot-for-spotify",
       description: "Lightweight web application that creates a custom Spotify playlist from sentence input.\n",
-      description: "Best Beginner Hack @HackTJ"
+      accolade: "Best Beginner Hack @HackTJ"
     },
     {
       name: "GitHub",
@@ -171,6 +171,8 @@ var text = {
 			+ "</a>\n"
 			+ "\t  "
 			+ item.description
+			+ "\n\n";
+			+ item.accolade
 			+ "\n\n";
 		});
 
