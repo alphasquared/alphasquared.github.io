@@ -144,7 +144,7 @@ var text = {
     {
       name: "MoneyCat",
       url: "https://devpost.com/software/moneycat",
-	    description: "{Category Prize Winner @HackTJ} - A region-stratified database of sales and transaction statistics for businesses.\n",
+	    description: "[Category Prize Winner @HackTJ] - A region-stratified database of sales and transaction statistics for businesses.\n",
     },
 	{
       name: "Spot for Spotify",
