@@ -126,7 +126,7 @@ var text = {
     {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "",
-      description: "Conducted data science/physics research concerning computational and solid state physics. Developed a statistical algorithm to accurately and rapidly predict properties caused by many body electronic excitations on the surfaces of various topologically superconducting materials. Classified optimal materials and theoretically predicted surface states through computational modeling of quantum physical interactions for the possible future development of fault-tolerant quantum computational systems."
+      description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
     },
     {
       name: "MoneyCat",
