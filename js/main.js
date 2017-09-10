@@ -15,6 +15,8 @@ $(function () {
 		    return text.allamsetty;
       case "work":
         return text.work();
+	    case "sl":
+		    return text.sl();
       case "positions":
         return text.positions();
       case "projects":
