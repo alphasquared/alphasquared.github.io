@@ -16,7 +16,7 @@ $(function () {
       case "work":
         return text.work();
 	    case "sl":
-		    return text.sl();
+		    return text.sl;
       case "positions":
         return text.positions();
       case "projects":
