@@ -39,6 +39,9 @@ var text = {
 		+ "\tfun: fun fact\n\n"
 		+ "\tcontact: say hey\n"
 	},
+	
+	sl: "🚂🚂🚂",
+	
 	notRight: "Oops, that's not a valid command... try '?'\n",
     abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
          + "@TJHSST\n\n"
