@@ -40,7 +40,7 @@ var text = {
 		+ "\tcontact: say hey\n"
 	},
 	
-	sl: "🚂🚂🚂",
+	sl: "🚂🚂🚂\n",
 	
 	notRight: "Oops, that's not a valid command... try '?'\n",
     abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
