@@ -35,6 +35,10 @@ $(function () {
 		    return text.lpr;
 	     case "man":
 		    return text.man;
+	    case "python":
+		    return text.python;
+	    case "python3":
+		    return text.python3;
       case "positions":
         return text.positions();
       case "projects":
