@@ -41,6 +41,15 @@ var text = {
 	},
 	
 	sl: "🚂🚂🚂\n\n",
+	ssh: "☁️🖥️\n\n",
+	cd: "💿💿💿... hehe\n\n",
+	mkdir: "🔧⚙️🗜️⚖️⚗️\n\n",
+	rmdir: "🔪🔫💣⚔️🏹\n\n",
+	rm: "⚡☠️😷\n\n",
+	cp: "✂️📋\n\n",
+	mv: "🅰️➡️🅱️\n\n",
+	lpr: "🖨️🖨️🖨️\n\n",
+	man: "🆘ℹ️💁\n\n",
 	
 	notRight: "Oops, that's not a valid command... try '?'\n",
     abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
