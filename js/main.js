@@ -19,6 +19,22 @@ $(function () {
 		    return text.sl;
 	    case "ssh":
 		    return text.ssh;
+	    case "cd":
+		    return text.cd;
+	     case "mkdir":
+		    return text.mkdir;
+	    case "rmdir":
+		    return text.rmdir;
+	    case "rm":
+		    return text.rm;
+	     case "cp":
+		    return text.cp;
+	    case "mv":
+		    return text.mv;
+	    case "lpr":
+		    return text.lpr;
+	     case "man":
+		    return text.man;
       case "positions":
         return text.positions();
       case "projects":
