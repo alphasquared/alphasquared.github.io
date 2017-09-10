@@ -50,6 +50,8 @@ var text = {
 	mv: "🅰️➡️🅱️\n\n",
 	lpr: "🖨️🖨️🖨️\n\n",
 	man: "🆘ℹ️💁\n\n",
+	python: "🐍\n\n",
+	python3: "🐍🐍🐍\n\n",
 	
 	notRight: "Oops, that's not a valid command... try '?'\n",
     abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
