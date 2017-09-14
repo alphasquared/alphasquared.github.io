@@ -189,6 +189,8 @@ var text = {
 		return output;
 	},
 	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'>here</a>\n"
+	
+	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'here</a>\n"
 	fun: function(){
 		var facts = [
 			"I can understand Telugu.",
