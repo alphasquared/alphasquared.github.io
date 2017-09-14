@@ -203,5 +203,9 @@ var text = {
 		var random = Math.floor((Math.random() * facts.length));
 		return facts[random] + '\n';
 	},
+	
+	katex: function(){
+		return katex.render("c = \\pm\\sqrt{a^2 + b^2}", element);
+	}
 	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'>here</a>\n"
 }
