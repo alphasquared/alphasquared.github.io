@@ -188,6 +188,7 @@ var text = {
 
 		return output;
 	},
+	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'>here</a>\n"
 	fun: function(){
 		var facts = [
 			"I can understand Telugu.",
@@ -203,6 +204,4 @@ var text = {
 		var random = Math.floor((Math.random() * facts.length));
 		return facts[random] + '\n';
 	},
-	
-	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'>here</a>\n",
 }
