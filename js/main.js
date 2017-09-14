@@ -49,6 +49,8 @@ $(function () {
         return text.contact;
 	    case "clear":
 		 return text.clear();
+	    case "katex":
+		    return text.katex();
       default:
         return text.notRight;
     }
