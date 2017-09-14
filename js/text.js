@@ -204,5 +204,5 @@ var text = {
 		return facts[random] + '\n';
 	},
 	
-	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'>here</a>\n"
+	contact: "say hey <a href='mailto:allamsettyabhishek@gmail.com'>here</a>\n",
 }
