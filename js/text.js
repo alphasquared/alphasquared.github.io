@@ -52,6 +52,7 @@ var text = {
 	man: "🆘ℹ️💁\n\n",
 	python: "🐍\n\n",
 	python3: "🐍🐍🐍\n\n",
+	rich:"larry",
 	
 	notRight: "Oops, that's not a valid command... try '?'\n",
     abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
