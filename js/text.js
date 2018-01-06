@@ -73,8 +73,8 @@ var text = {
 	workObj: [
     {
       name: "Research Intern",
-      company: "Johns Hopkins Data Science Lab",
-      url: "http://jhudatascience.org/",
+      company: "Johns Hopkins Applied Physics Laboratory",
+      url: "http://www.jhuapl.edu",
       time: "Summer 2017"
     },
 
@@ -126,12 +126,7 @@ var text = {
       organization: "Machine Learning Club",
       url: "http://tjmachinelearning.com/"
     },
-	{
-      position: "Member",
-      organization: "Science Olympiad Team",
-      url: "https://www.tjhsst.edu/students/activities/scienceolympiad/index.html"
-    },
-	{
+    {
       position: "Member",
       organization: "Computer Security Club",
       url: "https://activities.tjhsst.edu/csc/"
@@ -154,8 +149,8 @@ var text = {
 	projObj: [
     {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
-      url: "",
-	    description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
+      url: "https://www.researchgate.net/profile/Abhishek_Allamsetty",
+	    description: "[Siemens National Semifinalist] - Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
     },
     {
       name: "Physics Team Website",
