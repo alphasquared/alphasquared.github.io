@@ -55,10 +55,11 @@ var text = {
 	rich:"larry",
 	
 	notRight: "Oops, that's not a valid command... try '?'\n",
-    abhishek: "\nStudent, researcher, software engineer, and questionable tennis player.\n\n"
+    abhishek: "\nStudent, researcher, developer, and questionable tennis player.\n\n"
          + "@TJHSST\n\n"
 		 + "Check out my <a href='https://www.github.com/alphasquared/'>GitHub</a>!\n"
 		 + "Add me on <a href='https://www.facebook.com/abhishekallamsetty/'>Facebook</a>!\n"
+		 + "Follow me on <a href='https://www.instagram.com/abhishek.allamsetty/'>Instagram</a>!\n"
 		 + "Connect with me on <a href='https://www.linkedin.com/in/abhishekallamsetty'>LinkedIn</a>!\n\n"
          + "Check out my 'work' or 'projects' for more info.\n",
 	
@@ -155,6 +156,16 @@ var text = {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "",
 	    description: "Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
+    },
+    {
+      name: "Physics Team Website",
+      url: "https://tjphysicsteam.com",
+	    description: "Developed an all new, modern, and responsive website for TJ Physics Team from the ground up.\n",
+    },	
+    {
+      name: "Stay Woke",
+      url: "https://devpost.com/software/woke",
+	    description: "[Most Unique Hack @PennAppsXVI] - An Arduino that utilizes machine learning detect when you are falling asleep at the wheel.\n",
     },
     {
       name: "MoneyCat",
