@@ -77,6 +77,12 @@ var text = {
       url: "http://www.jhuapl.edu",
       time: "Summer 2017"
     },
+    {
+      name: "Explainer",
+      company: "Smithsonian National Air and Space Museum - Steven F. Udvar-Hazy Center ",
+      url: "https://airandspace.si.edu/udvar-hazy-center",
+      time: "Summer 2015 - Present"
+    },	
 
 	],
 	work: function(){
