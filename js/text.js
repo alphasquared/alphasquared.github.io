@@ -206,8 +206,11 @@ var text = {
 			"I can understand Russian.",
 			"I like to play tennis.",
 			"I am 6'3''.",
-			"My birthday is on the same day that the Berlin Wall fell.",
-			"This website was concieved at PennAppsXVI.",
+			"I am an explainer at the Udvar Hazy Center which basically means I get to drone on about aeronautics in my free time and get paid for it.",
+			"My birthday is on the same date that the Berlin Wall fell.",
+			"My birthday is on the same date that Donald Trump was elected POTUS...",
+			"Add me on Snapchat: alphasquared",
+			"This website was fully built during PennApps XVI.",
 			"I enjoy baking in my free time.",
       "Favorite Book: 'Surely You're Joking, Mr. Feynman!' by Richard Feynman", 
 		];
