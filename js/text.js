@@ -156,7 +156,7 @@ var text = {
     {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "https://www.researchgate.net/profile/Abhishek_Allamsetty",
-	    description: "[Siemens National Semifinalist] - Developed a statistical algorithm to accurately and rapidly predict properties of topological superconductors."
+	    description: "[Siemens National Semifinalist] - Developed a machine learning model to accurately and rapidly classify bit and flip errors within topological error codes to inhibit quantum decoherence."
     },
     {
       name: "Physics Team Website",
