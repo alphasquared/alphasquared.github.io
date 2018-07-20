@@ -71,6 +71,12 @@ var text = {
          + ".ofni erom rof 'stcejorp' ro 'krow' ym tuo kcehC\n",
 
 	workObj: [
+		{
+			name: "Research Intern",
+			company: "Condensed Matter Theory Center and Joint Quantum Institute, UMD Department of Physics",
+			url: "http://jqi.umd.edu",
+			time: "Summer 2018"
+		},
     {
       name: "Research Intern",
       company: "Johns Hopkins Applied Physics Laboratory",
@@ -81,7 +87,7 @@ var text = {
       name: "Explainer",
       company: "Smithsonian National Air and Space Museum - Steven F. Udvar-Hazy Center ",
       url: "https://airandspace.si.edu/udvar-hazy-center",
-      time: "Summer 2015 - Present"
+      time: "Summer 2015 - Present, during Spring and Winter Breaks"
     },	
 
 	],
@@ -211,14 +217,17 @@ var text = {
 			"I can understand Telugu.",
 			"I can understand Russian.",
 			"I like to play tennis.",
+			"I like to bicycle various places",
 			"I am 6'3''.",
-			"In my free time, I'm an explainer at the Udvar Hazy Air & Space Museum",
+			"Apple pie is the greatest thing invented by man."
 			"My birthday is on the same date that the Berlin Wall fell.",
 			"My birthday is on the same date that Donald Trump was elected POTUS...",
 			"Add me on Snapchat: alphasquared",
 			"Favorite Novel: 'Flatland' by Edwin A. Abbott.",
 			"This website was fully built during PennApps XVI.",
-			"I enjoy baking in my free time.",
+			"I enjoy baking in my free time.", 
+			"My favorite artists atm Frank Ocean, Radiohead, and Tyler the Creator",
+			"My favorite song is Videotape by Radiohead",
       "Favorite Non-Fiction Book: 'Surely You're Joking, Mr. Feynman!' by Richard Feynman", 
 		];
 
