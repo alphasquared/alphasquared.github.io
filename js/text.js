@@ -108,10 +108,15 @@ var text = {
 	positionsObj: [
 
     {
-      position: "Officer",
+      position: "Captain",
       organization: "Physics Team",
       url: "https://activities.tjhsst.edu/physics/"
     },
+	{
+		position: "Co-Founder and CTO",
+		organization: "Surf Safe",
+		url: "surfsafe.github.io"
+	},
     {
       position: "Officer",
       organization: "TJIOI",
@@ -156,7 +161,7 @@ var text = {
     {
       name: "Procedural Determination of Novel Stoichiometric Topological Superconductors through Surface and Pressure Effects",
       url: "https://www.researchgate.net/profile/Abhishek_Allamsetty",
-	    description: "[Siemens National Semifinalist] - Developed a machine learning model to accurately and rapidly classify bit and flip errors within topological error codes to inhibit quantum decoherence."
+	    description: "Siemens Competition National Semifinalist, ISEF International Finalist, and ISEF Grand and Special Award Winner"
     },
     {
       name: "Physics Team Website",
